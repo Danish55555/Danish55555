@@ -5,7 +5,7 @@
 - 💻 MERN STACK, MEVN STACK, PERN Stack
 - ✨ Open Source Contributor
 - 💗 DevOps Enthusiast
-- 📫 How to reach me: Linkedin: [Danish Ali]([url](https://www.linkedin.com/in/danish-ali-150694229)https://www.linkedin.com/in/danish-ali-150694229)
+- 📫 How to reach me: Linkedin: [Danish Ali]([url](https://www.linkedin.com/in/danish-ali-150694229)https://www.linkedin.com/in/danish-ali-150694229)]
 - 
 
 
